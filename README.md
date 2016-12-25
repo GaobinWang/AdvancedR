@@ -11,6 +11,10 @@ R进阶
 ### 数据操作
 * dplyr
 
+
+### 可视化
+* REmap
+
 ### 机器学习
 * LiblineaR
 * nnet
